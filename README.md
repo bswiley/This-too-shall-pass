@@ -8,7 +8,7 @@ On clicking the red "Generate Password" button the user is asked how long they w
 
 ##Installation
 
-This page was deployed directly to https:/bswiley.github.io/Challenge3/ after the page as constructed.  It can be accessed there for as long as this README.md can be read.  The index to the page is located at the same level as this README where a [screencapture](./screencapture.png) can also be accessed. 
+This page was deployed directly to https://bswiley.github.io/This-too-shall-pass/ after the page as constructed.  It can be accessed there for as long as this README.md can be read.  The index to the page is located at the same level as this README where a [screencapture](./screencapture.png) can also be accessed. 
 
 ## License
 Since the starter code is open to use by all bootcamp students, I assume that it is opensource.  The code that I am attaching to the project is also opensource and I am including an MIT license with it.
